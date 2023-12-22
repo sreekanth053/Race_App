@@ -1,3 +1,15 @@
+# The Task is to create a Frontend Application using React.
+Taking participant entries.Page should take the entries for participants like name and speed.
+Refer to the image below.
+
+Once the “Start Race” button is clicked, the second page will show the
+race track and timer showing elapsed time.
+The runners run with the speed provided during the registration on the
+first page.
+
+shows race results.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
