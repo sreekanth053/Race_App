@@ -1,0 +1,40 @@
+/* RaceResultPopup.css */
+
+.tableofpopup{
+    justify-content: space-around;
+}
+
+.race-results-popup {
+    background-color:lightseagreen; 
+    background-size: cover;
+    min-height: 300px;
+    min-width: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    color:black; 
+    border-radius: 10px;
+  }
+  
+.back-button{
+    background-color: rgb(196, 158, 158);
+    border-radius: 5px;
+    text-align: center;
+    height: 35px;
+    margin-left: 5px;
+    border: 0;
+    color: #063394;
+    font-weight: 500;
+}
+.restart-button{
+    background-color: rgb(178, 253, 163);
+    border-radius: 5px;
+    text-align: center;
+    height: 35px;
+    color: #1450cf;
+    margin-left: 35px;
+    border: 0;
+    color: black;
+    font-weight: 500;
+
+}

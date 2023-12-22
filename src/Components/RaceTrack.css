@@ -1,0 +1,66 @@
+/* RaceTrack.css */
+
+.participant-container {
+    margin-bottom: 20px;
+    background-color: white;
+    border: 10px black;
+  }
+  
+  .participant-name {
+    font-weight: bold;
+  }
+  .race-container{
+    padding: 30px;
+    text-align: center;
+    background-color: #f1f1f1;
+    max-height: 100vh;
+    max-width: 100vw;
+    border: 2px solid gray;
+  }
+.race-container-1{
+  border: 3px solid gray;
+  border-radius: 170px;
+}
+.race-container-2{
+  border: 3px solid gray;
+  border-radius: 180px;
+  margin: 10px;
+}
+.race-container-3{
+  border: 3px solid gray;
+  border-radius: 190px;
+  margin: 10px;
+  
+}
+.race-container-4{
+  border: 3px solid gray;
+  border-radius: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+  .track-container {
+    height: 20px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    flex-wrap: wrap;
+    margin-top: 5px;
+  }
+  
+  .track-progress {
+    height: 100%;
+    background-color: white;
+    transition: width 0.5s ease;
+    color: black;
+  }
+  .button{
+    background-color:rgb(177, 10, 10);
+    border-radius: 5px;
+    text-align: center;
+    height: 35px;
+    color: #ffffff;
+    margin: 15px;
+    border: 0;
+  }
+  
