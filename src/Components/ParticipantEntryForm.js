@@ -27,7 +27,7 @@ const ParticipantEntryForm = ({ onSubmit }) => {
       <div style={{ width: '25vw', height: '70vh'}} className='entry-form'>
       <form>
         <h3>RUNNER DETAILS</h3>
-        <p>*You can add max 10 participants</p>
+        // <p>*You can add max 10 participants</p>
         <div className='inputs'>
         <label>Name</label> <br/>
         <input style={{'border-radius':'5px',marginTop:'10px',marginBottom:'10px','padding':'10px'}}type="text" value={name} onChange={(e) => setName(e.target.value)} />
